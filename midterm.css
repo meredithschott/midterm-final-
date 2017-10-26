@@ -1,0 +1,41 @@
+
+body {
+
+	font: arial;
+}
+
+#eggs {
+		float: left;
+}
+
+#ham {
+	float: right;
+}
+
+#food {
+ padding-top: 30px;
+ border: 2px black solid;
+ background-color: pink;
+ width: 270px; 
+ height: 200px;
+}
+
+#cheese {
+	border-top: 1px grey solid;
+}
+
+#bread {
+	border-top: 1px grey solid;
+}
+
+div.wrapper
+#cookies {
+	float: left;
+	width: 30em;
+}
+
+div.wrapper
+#brownie {
+	float: right;
+	width: 30em;
+}
